@@ -1,7 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwkim000826)](https://solved.ac/jwkim000826/)
 <!--
 **JUKimHI/JUKimHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUKimHI&show_icons=true&theme=스타일)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
